@@ -1,6 +1,6 @@
 {
   "name": "@womorg/psychic-potato",
-  "version": "3.14.128",
+  "version": "3.14.129",
   "description": "",
   "main": "index.js",
   "author": "womhla6s",
@@ -479,5 +479,5 @@
   "bugs": {
     "url": "https://github.com/womorg/psychic-potato/issues"
   },
-  "packageManager": "yarn@4.4.1"
+  "packageManager": "yarn@4.5.0"
 }
