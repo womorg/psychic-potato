@@ -1,6 +1,6 @@
 {
   "name": "@womorg/psychic-potato",
-  "version": "23.55.576",
+  "version": "23.55.577",
   "description": "",
   "main": "index.js",
   "author": "maggaopen",
@@ -479,5 +479,5 @@
   "bugs": {
     "url": "https://github.com/womorg/psychic-potato/issues"
   },
-  "packageManager": "yarn@4.15.0"
+  "packageManager": "yarn@4.16.0"
 }
